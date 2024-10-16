@@ -37,4 +37,3 @@ CineData Solutions offre una soluzione avanzata per le piattaforme di streaming 
 
 Il dataset è scaricabile da qui: https://proai-datasets.s3.eu-west-3.amazonaws.com/moviesDB.csv
 
-# Modalità di consegna:  il JSON della pipeline e un documento scritto in cui spieghi in modo discorsivo cosa fai
